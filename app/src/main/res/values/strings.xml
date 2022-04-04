@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="bmi_link"><a href="https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/">official NHS webpage</a></string>
+    <string name="bmi_extUnder"> - Extremely underweight Recommendation: gain muscle or increase calorie intake</string>
+    <string name="bmi_under"> - Underweight Recommendation: gain muscle or increase calorie intake</string>
+    <string name="bmi_underHealthy"> - Underweight/Healthy Recommendation: gain muscle, increase or keep calorie intake</string>
+    <string name="bmi_healthy"> - Healthy Recommendation: keep calorie intake or be in calorie surplus for further muscle gain</string>
+    <string name="bmi_over"> - Overweight Recommendation: decrease calorie intake</string>
+    <string name="bmi_obese"> - Obese Recommendation: drastically decrease calorie intake</string>
+    <string name="bmi_extObese"> - Extremely obese Recommendation: drastically decrease calorie intake</string>
+    <string name="bm1">Maintain A Caloric Surplus With Clean, High-Protein Foods</string>
+    <string name="bm2">To lose weight, you simply have to eat fewer calories than you burn. Likewise, to gain weight you have to reverse the equation. There are no other shortcuts, alternate solutions, or gimmicks that\'ll get you there if you violate this first point, even if you closely follow the other five. You might as well write this one in stone.</string>
+    <string name="bm3">Always Build Your Routine Around Multijoint Movements</string>
+    <string name="bm4">The best routines have one important element in common: They\'re composed of multijoint movements. These kinds of exercises are the ones in which movement takes place in more than a single set of joints (the elbows and shoulders when bench pressing, for example). When more than one set of joints are working in unison, you can lift significantly more weight. With single-joint movements like leg extensions or cable cross-overs, you can\'t use nearly as much weight.</string>
+    <string name="bm5">Know The Most Important Training Variables For Muscle Growth</string>
+    <string name="bm6">A balance between intensity, volume, training to failure and rest periods is the perfect success formula</string>
+    <string name="bm7">Train The Target Muscle At Different Angles</string>
+    <string name="bm8">Since a high-volreplaume protocol stimulates greater muscle growth (high is relative of course, because you can do too much), it\'s important to add exercises that work the muscle differently than moves you\'re already doing.</string>
+    <string name="bm9">Challenge Yourself In The Gym</string>
+    <string name="bm10">For the first few months of training, you probably noticed quite a bit of progress as the novelty of training created significant gains. Over time, however, your muscles will stop responding to the same workouts.</string>
+    <string name="bm11">Look For Ways To Gain A Training Edge</string>
+    <string name="bm12">Recruiting a training partner is a great way to improve your workouts. They\'ll ensure you don\'t miss workouts, spot you, push you to do a few extra reps, and otherwise elevate your training to an intensity you likely couldn\'t achieve on your own. Make sure your partner shares your goals and training schedule.</string>
+    <string name="lf1">Exercise Moderately With Aerobics and Weights, Gradually Increasing The Intensity As Fat Is Lost</string>
+    <string name="lf2">If you\'re severely overweight, it is probably best to start your fat-burning phase with low-intensity aerobics and weight training, to ensure your body is not placed under undue stress at this early stage. When significantly overweight (over 25 percent body fat in males and 30 percent in females), it is best to work moderately as a way in which to gradually ease into a higher-intensity program.</string>
+    <string name="lf3">Gradually Cut Back On All Bad Fats, While Strategically Cutting Back On Carbohydrates</string>
+    <string name="lf4">It has been shown that fat intake of the wrong kind will result in increased fat gains. This stands to reason, as the body will typically burn carbohydrates for fuel and use protein for repair. Therefore, it makes sense to cut back on bad fat while increasing the good type.</string>
+    <string name="lf5">Mix Up Aerobic Sessions</string>
+    <string name="lf6">For variety—to eliminate boredom and encourage adherence—it is worthwhile to do a range of aerobic activities. These various activities will also have differing fat-burning effects. Combined, they may stimulate the metabolism to greater heights, therefore enhancing fat loss on a larger scale.</string>
+    <string name="lf7">Exercise Aerobically After Weight Training Or First Thing In The Morning</string>
+    <string name="lf8">One school of thought has it that training aerobically directly after weight training, or first thing in the morning, will stimulate greater gains in fat loss. The idea is that glycogen stores will be depleted at this time and therefore fat will be used directly for fuel. In many cases, this strategy has worked. However, some feel it is not a valid method. It is worth trying though.</string>
+    <string name="lf9">HIIT Training</string>
+    <string name="lf10">HIIT (High Intensity Interval Training) is an advanced form of aerobics designed to strip body fat at a faster rate. Although not for everyone, as it can be very demanding, HIIT is one of the more effective fat-loss methods for the intermediate to advanced trainer.</string>
+    <string name="lf11">Stagger Food Intake</string>
+    <string name="lf12">At the smooth stage(a thin layer of fat—independent of water—covers the body) or in the shape stage (around six percent body fat), it is probably acceptable to stagger food intake so that high calories (1000 or so above normal) can be eaten for two days followed by lower calories for three days.</string>
+    <string name="lf13">Drink At Least One Gallon Of Water Per Day</string>
+    <string name="lf14">In most of the weight loss success stories I have read, one common theme emerges: a higher than normal water intake is crucial for fat loss. Water intake is important for fat metabolism because it helps the liver perform the function of fat conversion for energy purposes.</string>
+    <string name="lf15">Weight Training</string>
+    <string name="lf16">Weight training is a perfect activity for fat loss. Although it doesn\'t directly burn a greater number of fat stores than aerobics, weights will build muscle, which in turn will increase the metabolic rate 24 hours a day. The more muscle you\'re holding, the better your chances of losing body fat.</string>
+    <string name="lf17">Additional Fat-Loss Tips</string>
+    <string name="lf18"> Cut alcohol "&#xA;"
+        Make a plan "&#xA;"
+        Use a personal trainer "&#xA;"
+        Use a fat burning supplement</string>
+    <string name="arms1">Hit your heavy curls at the beginning of your biceps workout when you can really challenge yourself with weight. For a bit more of a strength stimulus, choose a weight you can handle for about 6-8 reps, or even a classic size-and-strength rep range like 5x5. A common biceps blunder is rocking your body excessively on this movement. Keep it strict for the most part, especially when you\'re going heavy.</string>
+    <string name="arms2">Curls with a palms-facing or neutral grip do more than just hit the biceps, they also heavily recruit the brachialis, a muscle that doesn\'t get measured on EMG studies because it\'s beneath the biceps</string>
+    <string name="arms3">Cable overhead presses focus on the often underdeveloped long head. The constant tension provided by the cable might actually make this a better choice than dumbbells if you\'re picking between the two.</string>
+    <string name="arms4">Make sure you don\'t drop your elbow—a very common mistake, but one that\'s important enough to qualify for the "Laws of Triceps Training." Keep your upper arm parallel to the floor as you fully extend your elbow and squeeze.</string>
+    <string name="shoulders1">The seated dumbbell shoulder pressis an exercise for building muscle and strengthening the shoulders, particularly but not exclusively the front heads. The triceps also assist. Some lifters feel that using dumbbells versus a barbell reduced injury risk.</string>
+    <string name="shoulders2">Upright rows have a reputation as a shoulder destroyer, but like anything, it\'s all about how you perform them. As personal trainer Jimmy Peña explains in the article, "How Wide Should My Grip Be on an Upright Row," don\'t take a close grip, which can internally rotate your shoulders. Instead, take a wider grip where your upper arms go directly out to your sides.</string>
+    <string name="shoulders3">Rowing movements don\'t just work the "back," they involve the rear delts to a significant degree, as well.</string>
+    <string name="shoulders4">This is one of the most popular and best isolation exercises in the weight room, but it\'s tougher to master than it seems. Beginners usually benefit from two cues: lead with your elbows, and only go down until your arms are about 30 degrees out from your sides.</string>
+    <string name="chest1">It\'s popular to hate on the bench press these days, but it\'s one of the most popular lifts in the gym for a reason. For one, the standard barbell bench allows you to move the most weight. It\'s also an easier lift to control than pressing with heavy dumbbells. The exercise is also relatively easy to spot</string>
+    <string name="chest2">An obvious point in favor of push-ups is that they require no equipment and can be the centerpiece of a home chest workout, like in strength coach Paul Carter\'s program Jacked at Home: Bodyweight Muscle-Building Workouts. But they\'re also highly versatile, easy to adjust for range of motion, and can help strategically target different parts of your chest with a few simple tweaks to elevation or hand placement.</string>
+    <string name="back1">This mighty pull is far more than a back exercise. It hits the entire posterior chain, from your calves to your upper traps, but it\'s also a time-tested standout for overall backside development.</string>
+    <string name="back2">This is a total back-builder: upper back, lower back, lats, traps, spinal erectors—the whole deal.</string>
+    <string name="abs1">This old-school fave amps up the ab engagement by increasing the range of motion over standard crunches. You can also dial up—or down—the degree of difficulty by adjusting the angle of the bench. Holding a medicine ball, dumbbell, or plate against your chest adds a further level of customizable resistance.</string>
+    <string name="abs2">This cheap piece of equipment has gained a cult following over the years, and for good reason. EMG data suggests that using an ab wheel is equally if not more effective than hanging leg raises, sit-ups, and reverse crunches at activating the abs.</string>
+    <string name="abs3">The strength of this exercise is its versatility. It works for any fitness level, on any cable machine, and you can add any amount of resistance you need to train at your target rep range. You can also use a resistance band if you don\'t have a cable stack handy.</string>
+    <string name="legs1">Leg press vs. squat is a classic weight-room debate, but one that misses the point. Strength coach and physical therapist John Rusin explains why in his article, "Don\'t Do High-Rep Squats, Deads, and Bench! Do These Instead." Squats are for doing early in a leg workout and going heavy, he explains, and leg presses are for doing afterward for high reps. Sounds like a recipe for leg growth to us!</string>
+    <string name="legs2">The case that for balanced, strong hamstrings you need curls, too. Specifically, the lower hamstrings are activated dramatically more during seated leg curls than deadlifts—even stiff-legged deadlifts.</string>
+    <string name="legs3">Squats are king because they\'re the most challenging leg movement you can do. They work all the lower-body musculature and have been shown to spike muscle-building hormone release. In fact, squatting before doing curls has even been shown to significantly improve arm strength!</string>
+    <string name="cardio0">Cardiovascular exercise is one of the most important keys to getting that well defined, muscular physique. Similar to resistance training, there is science involved with cardio to heighten its results. The amount of body fat lost is in direct relation to the number of fat burning elements you zero in on.</string>
+    <string name="cardio1">Timing </string>
+    <string name="cardio2">It is most effective to perform your cardio session when you first wake up in the morning, on an empty stomach. It is best to perform cardio on an empty stomach because your body will tap into its fat stores for energy, instead of having to burn carbs and then start burning fat. Although this is the ideal timing for cardio, it may be just as effective late in the afternoon if a proper diet is followed.</string>
+    <string name="cardio3">Intensity</string>
+    <string name="cardio4">Intensity for cardio is defined as the percentage of your maximum heart rate used while performing a particular exercise. To burn fat most effectively, you want to try to hit approximately 65% of your maximum heart rate. This is known as the ideal fat burning zone. To determine your maximum heart rate, subtract your age from 220 and multiply it by 0.65. This will be the ideal number of heart beats per minute to maximize fat burning benefits from your cardio.</string>
+    <string name="cardio5">Duration </string>
+    <string name="cardio6">If you\'re a bodybuilder, chances are you aren\'t doing cardio to become a marathon competitor. Cardio is used by bodybuilders to help increase oxygen flow to muscles and burn excess bodyfat. For best results, cardio should only be performed 3-to-4 times per week, on non-resistance training days. You should increase the length of your cardio session by 5 minutes each week until you reach a total of 30-35 minutes.</string>
+    <string name="cardio7">Warm-Up/Cool-Down</string>
+    <string name="cardio8">Rushing into or out of a cardio session will place unnecessary stress on the heart, muscles, connective tissue and joints. Stretch before you walk, walk before you jog and jog before you run. The key to avoiding injuries is to start slow. Gradually increase the pace over a 3-to-5 minute period until you reach your ideal heart rate. At the end of your workout, use a 3-to-5 minute cool down period in which you should walk to ease your heart rate back to normal.</string>
+    <string name="cardio9">Nutrition </string>
+    <string name="cardio10">No matter how good your diet is, you will never reach your maximum definition potential without cardio. The opposite also holds true, no matter how much cardio you do, you will never reach you maximum definition potential without a well thought out diet. Nutrition during cut-up is just as important as nutrition during bulk-up. In order to burn fat, you must burn more calories than you consume. To figure out your daily caloric maintenance, multiply your bodyweight by 15-17, depending on your activity level.</string>
+    <string name="cardio11">Supplements </string>
+    <string name="cardio12">Likewise, supplements are also essential to developing an awesome physique. While performing cardio to attain a state of superior definition, I recommend using three different types of supplements: "&#xA;"
+
+        1. Multi-Vitamin/Mineral: Helps maintain the body and boosts your immune system. "&#xA;"
+        2. Thermogenics: Elevates your metabolism which burns fat faster and increases intensity "&#xA;"
+        3. Whey Protein: This is an easy way to reinforce the high protein diet</string>
+
+</resources>
